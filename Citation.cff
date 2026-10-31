@@ -4,7 +4,7 @@ authors:
   - family-names: "Fritz-Endres"
     given-names: "Theresa"
     orcid: "https://orcid.org/0000-0001-7636-5610" # Delete this line if you don't have one
-- family-names: "Fehrenbacher"
+  - family-names: "Fehrenbacher"
     given-names: "Jennifer"
     orcid: "https://orcid.org/0000-0001-5502-7559" # Delete this line if you don't have one
 title: "MicroCT_Analysis_withFiji"
