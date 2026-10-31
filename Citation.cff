@@ -9,6 +9,6 @@ authors:
     orcid: "https://orcid.org/0000-0001-5502-7559" # Delete this line if you don't have one
 title: "MicroCT_Analysis_withFiji"
 version: "1.0.1" # Update this to match your new release version
-doi: "10.5281/zenodo.XXXXXXX" # Replace with your actual Zenodo DOI once generated
+doi: "10.5281/zenodo.23841004" # Replace with your actual Zenodo DOI once generated
 date-released: 2026-10-31
 url: "https://github.com"
